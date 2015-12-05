@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "http://adventofcode.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.nectre.dy.fi:nectre/pt-advent-of-code.git"
+  },
+  "author": "Pasi.Tuominen@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-plugin-syntax-object-rest-spread": "^6.3.13",
+    "babel-plugin-transform-object-rest-spread": "^6.3.13"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "md5": "^2.0.0"
+  }
+}
